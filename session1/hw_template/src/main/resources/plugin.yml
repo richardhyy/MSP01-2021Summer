@@ -1,0 +1,4 @@
+name: Helloplugin
+version: ${project.version}
+main: cc.eumc.helloplugin.Helloplugin
+api-version: 1.17

@@ -1,0 +1,4 @@
+name: ScheduleFlight
+version: ${project.version}
+main: cc.eumc.scheduleflight.ScheduleFlight
+api-version: 1.17

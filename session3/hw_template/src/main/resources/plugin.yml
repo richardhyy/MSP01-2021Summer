@@ -1,0 +1,7 @@
+name: ExpBank
+version: '${project.version}'
+main: cc.eumc.expbank.ExpBank
+api-version: 1.17
+authors: [ AlanRichard ]
+commands:
+  expbank:

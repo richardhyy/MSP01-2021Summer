@@ -1,0 +1,12 @@
+Message:
+  Success:
+    Deposit: '&a经验保存成功'
+    Withdraw: '成功取出经验'
+    CreateAccount: '&a成功创建账户'
+  Failure:
+    AccountNotCreate: '&e尚未创建账户，请先存款'
+    NotEnoughExp: '经验不足'
+    NumberFormatError: '输入格式错误'
+    MissingArgument: '&c缺少参数！使用 /expbank help 查看帮助'
+    InvalidCommand: '&c无效指令！使用 /expbank help 查看帮助'
+    InternalError: '&c内部错误'
