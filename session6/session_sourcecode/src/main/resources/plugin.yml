@@ -1,0 +1,5 @@
+name: SailorMouthPunisher
+version: '${project.version}'
+main: cc.eumc.sailormouthpunisher.SailorMouthPunisher
+api-version: 1.17
+authors: [ AlanRichard ]

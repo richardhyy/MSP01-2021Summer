@@ -1,0 +1,6 @@
+BadWords:
+  - 'ajax'
+  - 'jquery'
+Message:
+  Warn: '&e你说了第%d次脏话'
+  Punish: '&c你因为说脏话被轰炸了'
