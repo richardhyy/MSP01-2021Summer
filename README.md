@@ -12,4 +12,5 @@
 | hw_template        | Template for assignments                            |
 | session_template   | Template source code which is used during a lecture |
 | session_sourcecode | Source code written during a lecture                |
+| lecture#.pdf       | Lecture slides                                      |
 
